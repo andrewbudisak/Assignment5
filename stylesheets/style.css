@@ -1,0 +1,17 @@
+p {
+	color: navy;
+	font-size:40px;
+	text-shadow: 10px;
+	font-family: 'Archivo Black', sans-serif; 
+
+}
+
+h5 {
+	color: blue;
+	font-style: italic;
+
+}
+
+body {
+	background-color: lightyellow;
+}
